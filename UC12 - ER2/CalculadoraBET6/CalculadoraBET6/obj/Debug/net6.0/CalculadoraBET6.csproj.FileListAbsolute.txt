@@ -1,0 +1,12 @@
+C:\Users\odirlei\Documents\CTM\Back-end Turma 6\UC12 - ER2\CalculadoraBET6\CalculadoraBET6\bin\Debug\net6.0\CalculadoraBET6.deps.json
+C:\Users\odirlei\Documents\CTM\Back-end Turma 6\UC12 - ER2\CalculadoraBET6\CalculadoraBET6\bin\Debug\net6.0\CalculadoraBET6.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 6\UC12 - ER2\CalculadoraBET6\CalculadoraBET6\bin\Debug\net6.0\CalculadoraBET6.pdb
+C:\Users\odirlei\Documents\CTM\Back-end Turma 6\UC12 - ER2\CalculadoraBET6\CalculadoraBET6\obj\Debug\net6.0\CalculadoraBET6.csproj.AssemblyReference.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 6\UC12 - ER2\CalculadoraBET6\CalculadoraBET6\obj\Debug\net6.0\CalculadoraBET6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odirlei\Documents\CTM\Back-end Turma 6\UC12 - ER2\CalculadoraBET6\CalculadoraBET6\obj\Debug\net6.0\CalculadoraBET6.AssemblyInfoInputs.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 6\UC12 - ER2\CalculadoraBET6\CalculadoraBET6\obj\Debug\net6.0\CalculadoraBET6.AssemblyInfo.cs
+C:\Users\odirlei\Documents\CTM\Back-end Turma 6\UC12 - ER2\CalculadoraBET6\CalculadoraBET6\obj\Debug\net6.0\CalculadoraBET6.csproj.CoreCompileInputs.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 6\UC12 - ER2\CalculadoraBET6\CalculadoraBET6\obj\Debug\net6.0\CalculadoraBET6.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 6\UC12 - ER2\CalculadoraBET6\CalculadoraBET6\obj\Debug\net6.0\refint\CalculadoraBET6.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 6\UC12 - ER2\CalculadoraBET6\CalculadoraBET6\obj\Debug\net6.0\CalculadoraBET6.pdb
+C:\Users\odirlei\Documents\CTM\Back-end Turma 6\UC12 - ER2\CalculadoraBET6\CalculadoraBET6\obj\Debug\net6.0\ref\CalculadoraBET6.dll
